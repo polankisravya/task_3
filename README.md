@@ -21,7 +21,7 @@ Understand basic networking concepts and how systems communicate over a network 
 
 ### Ping Test
 ![ping](screenshots/ping.png)
-###port 
+### Ping Test 2
 ![ping1](screenshots/ping(1).png)
 
 ### DNS Resolution
