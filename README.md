@@ -17,13 +17,13 @@ Understand basic networking concepts and how systems communicate over a network 
 ## Screenshots
 
 ### IP Address Check
-![ip a]("C:\Users\gnapi\Downloads\task-3-networking-basics\screenshots\ip.png")
+![ip a](screenshots/ip.png)
 
 ### Ping Test
-![ping]("C:\Users\gnapi\Downloads\task-3-networking-basics\screenshots\ping.png")
+![ping](screenshots/ping.png)
 
 ### DNS Resolution
-![nslookup]("C:\Users\gnapi\Downloads\task-3-networking-basics\screenshots\trace.png")
+![nslookup](screenshots\trace.png)
 
 ## Conclusion
 This task provided hands-on understanding of networking fundamentals required for DevOps roles.
