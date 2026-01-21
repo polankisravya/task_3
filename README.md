@@ -22,7 +22,7 @@ Understand basic networking concepts and how systems communicate over a network 
 ### Ping Test
 ![ping](screenshots/ping.png)
 ###port 
-![ping1](screenshots/ping(1).ping)
+![ping1](screenshots/ping(1).png)
 
 ### DNS Resolution
 ![nslookup](screenshots/trace.png)
